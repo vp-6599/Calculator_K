@@ -8,6 +8,8 @@ set UGII_TCCS_ENV_NAME=uat
 :: 
 :: Run Teamcenter Integration with NX 
 :: with Teamcenter as a background process 
+
+Kittu Git hub Code 
 :: 
 "C:\progra~1\Siemens\NX2212\UGII\ugraf.exe" -pim=yes 
 : THE_END
